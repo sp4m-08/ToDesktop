@@ -3,7 +3,7 @@
 
 @layer base{
     .container{
-        @apply bg-none min-w-screen px-14 mb-5 mt-14 mx-auto lg:px-8 lg:mt-32;
+        @apply bg-none min-w-screen px-7 md:px-14 mb-5 mt-14 mx-auto lg:px-8 lg:mt-32;
     }
 
     h2{
