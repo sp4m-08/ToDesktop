@@ -188,7 +188,7 @@ const Customer = () => {
       {/* Download-ToDesktop */}
       <div
         id="download-box"
-        className="flex flex-col border gap-12 p-6 border-gray-300 rounded-2xl bg-black mt-6 lg:flex-row"
+        className="flex flex-col border gap-12 p-3 md:p-6 border-gray-300 rounded-2xl bg-black mt-6 lg:flex-row"
       >
         <div className="flex flex-col gap-12 p-6 rounded-2xl bg-black mt-6">
           <p className="text-semibold text-gray-400">READY TO START BUILDING</p>
